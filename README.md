@@ -2,7 +2,7 @@
 
 The project orbited around information representation at single neuron and network levels, and was divided into two parts. The first part aimed to test whether Acetylcholine's neuromodulation could change the coding properties of single neurons while being stimulated in an in vitro experimental setting. The second part aimed to see how coding properties could arise in network models of neurons (namely the Poisson Balanced Spiking Network) using the same analysis techniques from the first part of the project. 
 
-The experimental data used in the analyses can be found in bit.ly/NeuromodulationDatabase, and further information of the recordings in Yan et al. (2022). In the second part of the thesis I implemented the Poisson Balanced Spiking Network (first explained in Buixó and Pillow (2020)). I have made some modifications of their implementations (which where done in MATLAB), but preserved the core ideas.
+The experimental data used in the analyses can be found in bit.ly/NeuromodulationDatabase, and further information of the recordings in Yan et al. (2022). In the second part of the thesis I implemented the Poisson Balanced Spiking Network (first explained in Buixó and Pillow (2020)). I have made some modifications of their implementations (which were done in MATLAB), but preserved the core ideas.
 
 In this repository I share the code used for the two parts of the project (single neuron analysis and network modelling):
 
